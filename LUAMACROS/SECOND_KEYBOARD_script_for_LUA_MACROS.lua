@@ -3,7 +3,7 @@
 -- Though, I have since abandoned luamacros, in favor of Interception... which i will abandon in favor of QMK.
 -- get luamacros HERE: http://www.hidmacros.eu/forum/viewtopic.php?f=10&t=241#p794
 -- plug in your 2nd keyboard, load this script into LUAmacros, and press the triangle PLAY button.
--- Then, press any key on that keyboard to assign logical name ('MACROS') to macro keyboard
+-- Then, press any key on that keyboard to assign logical name ( MACROS') to macro keyboard
 clear() --clear the console from last run
 local keyboardIdentifier = '0000AAA'
 
